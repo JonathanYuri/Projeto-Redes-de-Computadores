@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/30 09:57:02.000.645,=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/30 09:57:02.000.863,=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/30 09:58:57.000.959,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Unit1.cpp=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/30 09:58:57.000.959,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Unit1.h=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/12/30 09:58:57.000.959,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Unit1.dfm=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/30 09:59:01.000.630,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Project1PCH1.h=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/30 09:59:03.000.903,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Project1.cbproj=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022/01/02 12:34:39.000.773,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Unit1.h=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\untServerApplication.h</Transaction>
+    <Transaction>2022/01/02 12:34:39.000.773,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Unit1.cpp=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\untServerApplication.cpp</Transaction>
+    <Transaction>2022/01/02 12:34:39.000.773,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Unit1.dfm=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\untServerApplication.dfm</Transaction>
+    <Transaction>2022/01/02 15:14:29.000.515,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\Project1.cbproj=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\ProjetoServidor.cbproj</Transaction>
+    <Transaction>2022/01/02 15:15:06.000.914,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\ProjetoServidor.cbproj=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Redes\ProjetoServidor.cbproj</Transaction>
+    <Transaction>2022/01/02 18:49:39.000.774,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\ProjetoServidor.cbproj=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\ProjetoCliente.cbproj</Transaction>
+    <Transaction>2022/01/02 18:51:56.000.194,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untServerApplication.cpp=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoCliente.cpp</Transaction>
+    <Transaction>2022/01/02 18:51:56.000.194,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untServerApplication.dfm=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoCliente.dfm</Transaction>
+    <Transaction>2022/01/02 18:51:56.000.194,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untServerApplication.h=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoCliente.h</Transaction>
+    <Transaction>2022/01/02 19:30:54.000.332,=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\Unit1.cpp</Transaction>
+    <Transaction>2022/01/02 19:31:26.000.968,=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\Unit1.cpp</Transaction>
+    <Transaction>2022/01/02 19:32:05.000.021,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\Unit1.dfm=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\teste.dfm</Transaction>
+    <Transaction>2022/01/02 19:32:05.000.021,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\Unit1.h=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\teste.h</Transaction>
+    <Transaction>2022/01/02 19:32:05.000.021,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\Unit1.cpp=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\teste.cpp</Transaction>
+    <Transaction>2022/01/02 19:32:26.000.447,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\teste.h=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.h</Transaction>
+    <Transaction>2022/01/02 19:32:26.000.447,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\teste.dfm=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.dfm</Transaction>
+    <Transaction>2022/01/02 19:32:26.000.447,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\teste.cpp=C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.cpp</Transaction>
+    <Transaction>2022/01/02 19:34:34.000.741,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>

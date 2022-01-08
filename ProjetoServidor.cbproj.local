@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/02 17:14:33.000.751,=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/02 17:14:35.000.111,=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/01/02 19:34:45.000.352,=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/01/02 19:34:45.000.401,=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/02 19:36:59.000.911,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\untAplicacaoServidor.cpp</Transaction>
+    <Transaction>2022/01/02 19:36:59.000.911,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\untAplicacaoServidor.h</Transaction>
+    <Transaction>2022/01/02 19:36:59.000.911,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\untAplicacaoServidor.dfm</Transaction>
+    <Transaction>2022/01/02 19:37:47.000.451,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjectServer.h</Transaction>
+    <Transaction>2022/01/02 19:38:17.000.221,C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoServidor.cbproj</Transaction>
+    <Transaction>2022/01/02 20:24:59.000.469,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.cpp=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\untAplicacaoServidor.cpp</Transaction>
+    <Transaction>2022/01/02 20:24:59.000.469,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.dfm=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\untAplicacaoServidor.dfm</Transaction>
+    <Transaction>2022/01/02 20:24:59.000.469,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\untAplicacaoServidor.h=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\untAplicacaoServidor.h</Transaction>
+    <Transaction>2022/01/02 20:25:25.000.074,C:\Users\Lucas\OneDrive\Documentos\Github\Redes\ProjetoServidor.cbproj=C:\Users\Lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoServidor.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
